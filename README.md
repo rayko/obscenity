@@ -39,6 +39,7 @@ The following methods are available to use with Obscenity:
 - An array with words
 - A string representing a path to a yml file
 - A Pathname object with a path to a yml file
+- A Proc block that should return an array
 
 `config.whitelist` accepts the following values:
 
